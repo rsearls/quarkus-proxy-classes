@@ -1,3 +1,5 @@
+Issue resolved by upgrade to quarkus 1.3.0.Alpha1
+
 # quarkus-proxy-classes
 Tests show error "method is not visible from class loader".  This occurrs for proxy classes.
 
